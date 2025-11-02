@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Better Segments for Strava
-// @namespace    https://github.com/jerboa88
+// @namespace    https://github.com/twocaretcat
 // @version      0.2.0
 // @author       John Goodliff
 // @description  A userscript for Strava that adds additional stats and features to the starred segments page.
@@ -8,8 +8,8 @@
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAA51BMVEUAAAD8TAL8TAL8TAIAAAD8TAL39/fg4OD8TAIAAAAAAAD8TAL8TAIAAAD8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TALl5eX8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL5+fn4+Pj8TAL8TAL8TALWQAL8TAL8TAL8TAL8TAL8TAL8TAL8TAL///8AuADjRAKq2Kqk1qTM58zKysqnpqZ8fHz39/ft7e3n5+fi8eLV1dXFxcWxsbHj4eHX19eampqZmZlUgKVHAAAAOHRSTlMAZJ6ZBwmnhfYYDOAeGigL8+LXsD8t+NzRq6iHfldKOv3vyr+5kHRvXkQwEaSkjYF4cRa4lFMgHLx0l9gAAAHDSURBVFjD7ZVnW8IwEIBRrBaK0kLZG9koAq6LqOzh+P+/x3BEbEkHtvLFp+8XknD3JiSX4PM4PBcxd/lCJBF2JUgDRN3k14FSc55fiAOlWHCa35YAUfoOBRVgXDrLv4EtGbtYVeDHmqAhb3DCqqbjj3D1EiphZjSFH3KIq7DksVYAYnfHX8ZEKSwksFHeWWNNBL2A7pRukiqmiS06lYhNv255FQBOAHLuZyAHSGOnzbgvASdAUm3s4ayakLvNar63KZwGMBGA0mRXCHtJQbcf7FqpEpgIkM46aTOF/LB7ImtZBsBSAPRA69zZ5wGp0cMDOwGI1TirPq4qix0RLAQKfmtS/xXQEJcMBccxzfqUR72gL2l+ZctvLNDsUFE1fBuQquAzE9AbxCbqGr1OiEL31kKAVWLyDqZYrVkIkJwMkuFLLCRAbvDx/EAo2jL5j7gN+awF9ngCT3BgwS/xBLygcOQA1fePCF6dItdBh/EBMn+lzEnvaC96hEymkykhga3g+YnyQgawFwMyWa4Wn1Ny7liwWC0/3kcuBGQ4ehsT5wKaPxzPxu5WMNOtAGEDtvDxwewZkrWrA9P4E4ZdJhfv8Td8Aar4+B4sHPOcAAAAAElFTkSuQmCC
 // @homepage     https://johng.io/p/better-segments-for-strava
 // @homepageURL  https://johng.io/p/better-segments-for-strava
-// @source       https://github.com/jerboa88/better-segments-for-strava.git
-// @supportURL   https://github.com/jerboa88/better-segments-for-strava/issues
+// @source       https://github.com/twocaretcat/better-segments-for-strava.git
+// @supportURL   https://github.com/twocaretcat/better-segments-for-strava/issues
 // @match        https://www.strava.com/athlete/segments/starred*
 // @grant        none
 // ==/UserScript==

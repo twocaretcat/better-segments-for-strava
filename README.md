@@ -6,23 +6,23 @@
 
   <p class="projectBadges info">
     <img src="https://johng.io/badges/category/Script.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/better-segments-for-strava.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/better-segments-for-strava.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/better-segments-for-strava.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/better-segments-for-strava.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/better-segments-for-strava.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/better-segments-for-strava.svg" alt="Project license" title="Project license"/>
     </a>
     <a href="https://github.com/semantic-release/semantic-release">
       <img src="https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release" alt="Semantic Release" title="Semantic Release"/>
     </a>
   </p>
   <p class="projectBadges status">
-    <a href="https://github.com/jerboa88/better-segments-for-strava/releases/latest">
-      <img src="https://img.shields.io/github/v/release/jerboa88/better-segments-for-strava.svg" alt="Latest release" title="Latest release"/>
+    <a href="https://github.com/twocaretcat/better-segments-for-strava/releases/latest">
+      <img src="https://img.shields.io/github/v/release/twocaretcat/better-segments-for-strava.svg" alt="Latest release" title="Latest release"/>
     </a>
     <a href="https://greasyfork.org/en/scripts/545360-better-segments-for-strava">
       <img src="https://img.shields.io/greasyfork/v/545360-better-segments-for-strava?color=%23990000" alt="Greasy Fork Version"/>
     </a>
-    <a href="https://github.com/jerboa88/better-segments-for-strava/raw/refs/heads/main/dist/better-segments-for-strava.user.js">
+    <a href="https://github.com/twocaretcat/better-segments-for-strava/raw/refs/heads/main/dist/better-segments-for-strava.user.js">
      <img src="https://img.shields.io/badge/%F0%9F%A7%A9_Install-better--segments--for--strava.user.js-blue" alt="Install" title="Install"/>
     </a>
   </p>
@@ -67,9 +67,9 @@ A userscript manager is a browser extension that allows you to organize and run 
 
 Once installed, you can click the button below to install the latest version of the script:
 
-[![Install](https://img.shields.io/badge/%F0%9F%A7%A9_Install-better--segments--for--strava.user.js-blue)](https://github.com/jerboa88/better-segments-for-strava/raw/refs/heads/main/dist/better-segments-for-strava.user.js)
+[![Install](https://img.shields.io/badge/%F0%9F%A7%A9_Install-better--segments--for--strava.user.js-blue)](https://github.com/twocaretcat/better-segments-for-strava/raw/refs/heads/main/dist/better-segments-for-strava.user.js)
 
-You can also install a specific version of the script on the [releases page](https://github.com/jerboa88/better-segments-for-strava/releases).
+You can also install a specific version of the script on the [releases page](https://github.com/twocaretcat/better-segments-for-strava/releases).
 
 ### Manually
 >
@@ -134,7 +134,7 @@ Make sure that you select the entire file with <kbd>Ctrl</kbd> + <kbd>A</kbd> wh
 
 ## 🤝 Contributing
 
-If you encounter any problems with the script, feel free to [create an issue](https://github.com/jerboa88/better-segments-for-strava/issues).
+If you encounter any problems with the script, feel free to [create an issue](https://github.com/twocaretcat/better-segments-for-strava/issues).
 
 Pull requests, bug reports, translations, and other kinds of contributions are greatly appreciated. By contributing code, you agree to license your contributions under the terms of the [LICENSE].
 
@@ -149,7 +149,7 @@ This project is not affiliated with or endorsed by Strava in any way.
 
 ## 🖇️ Related
 
-- **[Komodo - Mods for Komoot](https://github.com/jerboa88/komodo)** - A userscript for Komoot that adds additional features for route planning.
+- **[Komodo - Mods for Komoot](https://github.com/twocaretcat/komodo)** - A userscript for Komoot that adds additional features for route planning.
 
 ## 💕 Funding
 

@@ -15,7 +15,7 @@
 		"strava"
 	],
 	"homepage": "https://johng.io/p/better-segments-for-strava",
-	"bugs": "https://github.com/jerboa88/better-segments-for-strava/issues",
+	"bugs": "https://github.com/twocaretcat/better-segments-for-strava/issues",
 	"license": "MIT",
 	"author": {
 		"name": "John Goodliff",
@@ -28,11 +28,11 @@
 		},
 		{
 			"type": "GitHub Sponsors",
-			"url": "https://github.com/sponsors/jerboa88"
+			"url": "https://github.com/sponsors/twocaretcat"
 		},
 		{
 			"type": "Patreon",
-			"url": "https://patreon.com/jerboa88"
+			"url": "https://patreon.com/twocaretcat"
 		},
 		{
 			"type": "Brave Creators",
@@ -46,7 +46,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jerboa88/better-segments-for-strava.git"
+		"url": "git+https://github.com/twocaretcat/better-segments-for-strava.git"
 	},
 	"scripts": {
 		"dev": "vite",
