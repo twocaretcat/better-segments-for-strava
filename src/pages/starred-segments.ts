@@ -202,7 +202,7 @@ const handler = () => {
 		}
 
 		if (durationString.endsWith('s')) {
-			return Number.parseInt(durationString);
+			return Number.parseInt(durationString, 10);
 		}
 
 		return Number.parseFloat(durationString);

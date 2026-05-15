@@ -29,6 +29,7 @@ export default {
 			{
 				assets: ['package.json', distGlob],
 				message:
+					// biome-ignore lint/suspicious/noTemplateCurlyInString: Semantic Release does the substitution
 					'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
 			},
 		],

@@ -2,7 +2,7 @@ import { defineConfig } from 'cz-git';
 
 // @ts-check
 
-const commitScopes = ['starred segments', 'release'];
+const commitScopes = ['starred segments', 'release', 'deps'];
 
 export default defineConfig({
 	extends: ['@commitlint/config-conventional'],

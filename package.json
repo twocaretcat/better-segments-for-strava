@@ -52,8 +52,9 @@
 		"dev": "vite",
 		"build": "tsc && vite build",
 		"preview": "vite preview",
-		"format": "biome format --write .",
-		"lint": "biome lint .",
+		"format:write": "biome format --write",
+		"lint:write": "biome lint --write",
+		"lint": "biome lint",
 		"commit": "cz",
 		"prepare": "husky",
 		"postversion": "tsc && vite build"
@@ -64,7 +65,7 @@
 		}
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.0.6",
+		"@biomejs/biome": "2.4.15",
 		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-conventional": "^19.8.1",
 		"@semantic-release/git": "^10.0.1",
